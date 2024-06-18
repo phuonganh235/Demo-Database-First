@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\duongvu\\source\\repos\\DemoDBFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96DCDD07-9059-4DDF-A592-214ED4FC5D9E}|Wpf_CodeFirst\\Wpf_CodeFirst.csproj|c:\\users\\duongvu\\source\\repos\\demodbfirst\\wpf_codefirst\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{96DCDD07-9059-4DDF-A592-214ED4FC5D9E}|Wpf_CodeFirst\\Wpf_CodeFirst.csproj|solutionrelative:wpf_codefirst\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DCDD07-9059-4DDF-A592-214ED4FC5D9E}|Wpf_CodeFirst\\Wpf_CodeFirst.csproj|c:\\users\\duongvu\\source\\repos\\demodbfirst\\wpf_codefirst\\myshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DCDD07-9059-4DDF-A592-214ED4FC5D9E}|Wpf_CodeFirst\\Wpf_CodeFirst.csproj|solutionrelative:wpf_codefirst\\myshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DCDD07-9059-4DDF-A592-214ED4FC5D9E}|Wpf_CodeFirst\\Wpf_CodeFirst.csproj|c:\\users\\duongvu\\source\\repos\\demodbfirst\\wpf_codefirst\\managecategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DCDD07-9059-4DDF-A592-214ED4FC5D9E}|Wpf_CodeFirst\\Wpf_CodeFirst.csproj|solutionrelative:wpf_codefirst\\managecategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DCDD07-9059-4DDF-A592-214ED4FC5D9E}|Wpf_CodeFirst\\Wpf_CodeFirst.csproj|c:\\users\\duongvu\\source\\repos\\demodbfirst\\wpf_codefirst\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{96DCDD07-9059-4DDF-A592-214ED4FC5D9E}|Wpf_CodeFirst\\Wpf_CodeFirst.csproj|solutionrelative:wpf_codefirst\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DCDD07-9059-4DDF-A592-214ED4FC5D9E}|Wpf_CodeFirst\\Wpf_CodeFirst.csproj|c:\\users\\duongvu\\source\\repos\\demodbfirst\\wpf_codefirst\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DCDD07-9059-4DDF-A592-214ED4FC5D9E}|Wpf_CodeFirst\\Wpf_CodeFirst.csproj|solutionrelative:wpf_codefirst\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\duongvu\\source\\repos\\DemoDBFirst\\Wpf_CodeFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "Wpf_CodeFirst\\appsettings.json",
+              "ToolTip": "C:\\Users\\duongvu\\source\\repos\\DemoDBFirst\\Wpf_CodeFirst\\appsettings.json",
+              "RelativeToolTip": "Wpf_CodeFirst\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T01:06:26.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyShopDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\duongvu\\source\\repos\\DemoDBFirst\\Wpf_CodeFirst\\MyShopDBContext.cs",
+              "RelativeDocumentMoniker": "Wpf_CodeFirst\\MyShopDBContext.cs",
+              "ToolTip": "C:\\Users\\duongvu\\source\\repos\\DemoDBFirst\\Wpf_CodeFirst\\MyShopDBContext.cs",
+              "RelativeToolTip": "Wpf_CodeFirst\\MyShopDBContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwB8AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T10:18:17.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageCategories.cs",
+              "DocumentMoniker": "C:\\Users\\duongvu\\source\\repos\\DemoDBFirst\\Wpf_CodeFirst\\ManageCategories.cs",
+              "RelativeDocumentMoniker": "Wpf_CodeFirst\\ManageCategories.cs",
+              "ToolTip": "C:\\Users\\duongvu\\source\\repos\\DemoDBFirst\\Wpf_CodeFirst\\ManageCategories.cs",
+              "RelativeToolTip": "Wpf_CodeFirst\\ManageCategories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T10:17:44.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\duongvu\\source\\repos\\DemoDBFirst\\Wpf_CodeFirst\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Wpf_CodeFirst\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\duongvu\\source\\repos\\DemoDBFirst\\Wpf_CodeFirst\\MainWindow.xaml",
+              "RelativeToolTip": "Wpf_CodeFirst\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-05T09:48:58.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\duongvu\\source\\repos\\DemoDBFirst\\Wpf_CodeFirst\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Wpf_CodeFirst\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\duongvu\\source\\repos\\DemoDBFirst\\Wpf_CodeFirst\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Wpf_CodeFirst\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T09:48:58.415Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
